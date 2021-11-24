@@ -4,6 +4,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/oicronofobico)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelod1as/)
 
+**Proud generalist**. Know more [here](http://www.angelodias.com.br/).
+
 - Typescript & React Developer
 - Print and digital Designer
 - Award winning Journalist
