@@ -32,11 +32,11 @@ Sadly Portuguese only
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138383%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-138%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,861 Contributions in the Year 2021
+> 🏆 2,862 Contributions in the Year 2021
  > 
 > 📦 540.7 kB Used in GitHub's Storage 
  > 
@@ -100,5 +100,5 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
