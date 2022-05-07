@@ -32,11 +32,13 @@ Sadly Portuguese only
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 806 Contributions in the Year 2022
+> 🏆 807 Contributions in the Year 2022
  > 
 > 📦 550.7 kB Used in GitHub's Storage 
  > 
@@ -75,11 +77,11 @@ Sunday       96 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               12 hrs 8 mins       █████████████████████░░░░   84.64% 
-MDX                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-Sass                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07% 
-SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+TypeScript               12 hrs 3 mins       ███████████████████░░░░░░   79.15% 
+MDX                      2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
+CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
+Sass                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
+SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
 
 ```
 
@@ -100,5 +102,5 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:49:19 UTC
+ Last Updated on 07/05/2022 18:47:12 UTC
 <!--END_SECTION:waka-->
