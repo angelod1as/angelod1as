@@ -32,15 +32,15 @@ Sadly Portuguese only
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C237%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C241%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,456 Contributions in the Year 2022
+> 🏆 1,460 Contributions in the Year 2022
  > 
-> 📦 657.6 kB Used in GitHub's Storage 
+> 📦 660.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,9 +51,9 @@ Sadly Portuguese only
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    104 commits    █████░░░░░░░░░░░░░░░░░░░░   21.67% 
+🌞 Morning    101 commits    █████░░░░░░░░░░░░░░░░░░░░   21.04% 
 🌆 Daytime    196 commits    ██████████░░░░░░░░░░░░░░░   40.83% 
-🌃 Evening    155 commits    ████████░░░░░░░░░░░░░░░░░   32.29% 
+🌃 Evening    158 commits    ████████░░░░░░░░░░░░░░░░░   32.92% 
 🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
 
 ```
@@ -77,11 +77,11 @@ Sunday       79 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               9 hrs 7 mins        ███████████████████████░░   91.85% 
-MDX                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07% 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
-Sass                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+TypeScript               9 hrs 52 mins       ███████████████████████░░   91.54% 
+SCSS                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
+MDX                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
 
 ```
 
@@ -102,5 +102,5 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2022 18:48:18 UTC
+ Last Updated on 28/08/2022 18:50:42 UTC
 <!--END_SECTION:waka-->
