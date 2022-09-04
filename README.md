@@ -32,7 +32,7 @@ Sadly Portuguese only
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C246%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147%20Thousand%20lines%20of%20code-blue)
 
@@ -48,43 +48,6 @@ Sadly Portuguese only
  > 
 > 🔑 15 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    101 commits    █████░░░░░░░░░░░░░░░░░░░░   21.04% 
-🌆 Daytime    196 commits    ██████████░░░░░░░░░░░░░░░   40.83% 
-🌃 Evening    158 commits    ████████░░░░░░░░░░░░░░░░░   32.92% 
-🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Tuesday      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-Wednesday    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-Thursday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
-Friday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Saturday     109 commits    █████░░░░░░░░░░░░░░░░░░░░   22.71% 
-Sunday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       ███████████████████░░░░░░   78.33% 
-MDX                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
-SCSS                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -102,5 +65,5 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:48:38 UTC
+ Last Updated on 04/09/2022 18:50:49 UTC
 <!--END_SECTION:waka-->
