@@ -32,13 +32,13 @@ Sadly Portuguese only
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C246%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,468 Contributions in the Year 2022
+> 🏆 1,471 Contributions in the Year 2022
  > 
 > 📦 660.0 kB Used in GitHub's Storage 
  > 
@@ -48,6 +48,42 @@ Sadly Portuguese only
  > 
 > 🔑 15 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    101 commits    █████░░░░░░░░░░░░░░░░░░░░   21.04% 
+🌆 Daytime    196 commits    ██████████░░░░░░░░░░░░░░░   40.83% 
+🌃 Evening    158 commits    ████████░░░░░░░░░░░░░░░░░   32.92% 
+🌙 Night      25 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+Tuesday      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+Wednesday    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+Thursday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
+Friday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
+Saturday     109 commits    █████░░░░░░░░░░░░░░░░░░░░   22.71% 
+Sunday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               3 hrs 15 mins       ██████████████████████░░░   89.29% 
+SCSS                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -65,5 +101,5 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:50:49 UTC
+ Last Updated on 05/09/2022 18:57:59 UTC
 <!--END_SECTION:waka-->
