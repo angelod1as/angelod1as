@@ -32,13 +32,13 @@ Sadly Portuguese only
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C246%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C249%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,471 Contributions in the Year 2022
+> 🏆 1,484 Contributions in the Year 2022
  > 
 > 📦 660.0 kB Used in GitHub's Storage 
  > 
@@ -61,9 +61,9 @@ Sadly Portuguese only
 
 ```text
 Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Tuesday      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
+Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
 Wednesday    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
-Thursday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
+Thursday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
 Friday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
 Saturday     109 commits    █████░░░░░░░░░░░░░░░░░░░░   22.71% 
 Sunday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.46%
@@ -101,5 +101,5 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 18:57:59 UTC
+ Last Updated on 07/09/2022 18:55:08 UTC
 <!--END_SECTION:waka-->
