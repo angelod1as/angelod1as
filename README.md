@@ -32,15 +32,15 @@ Sadly Portuguese only
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,628 Contributions in the Year 2022
+> 🏆 1,629 Contributions in the Year 2022
  > 
-> 📦 660.6 kB Used in GitHub's Storage 
+> 📦 660.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,43 +48,6 @@ Sadly Portuguese only
  > 
 > 🔑 15 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    93 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-🌆 Daytime    198 commits    ██████████░░░░░░░░░░░░░░░   42.58% 
-🌃 Evening    154 commits    ████████░░░░░░░░░░░░░░░░░   33.12% 
-🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
-Thursday     64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.76% 
-Friday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
-Saturday     104 commits    █████░░░░░░░░░░░░░░░░░░░░   22.37% 
-Sunday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.99%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               4 hrs 20 mins       ███████████████████████░░   92.71% 
-SCSS                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.54% 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -102,5 +65,5 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:03:02 UTC
+ Last Updated on 09/11/2022 18:49:31 UTC
 <!--END_SECTION:waka-->
