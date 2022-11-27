@@ -22,13 +22,6 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Podcast
-
-Sadly Portuguese only
-
-[![Podcast](https://user-images.githubusercontent.com/13950513/143299819-ef1f5a9b-f29b-4c52-b2c4-2cdb9dafa640.png)](http://anchor.fm/cronofobia)
-
-
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
