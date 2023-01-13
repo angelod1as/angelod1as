@@ -25,30 +25,30 @@
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-147%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,629 Contributions in the Year 2022
+> 🏆 99 Contributions in the Year 2023
  > 
-> 📦 660.8 kB Used in GitHub's Storage 
+> 📦 658.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 62 Public Repositories 
+> 📜 63 Public Repositories 
  > 
-> 🔑 15 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               35 repos            ████████████░░░░░░░░░░░░░   50.0% 
-JavaScript               21 repos            ███████░░░░░░░░░░░░░░░░░░   30.0% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29% 
-Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+TypeScript               35 repos            ████████████░░░░░░░░░░░░░   47.95% 
+JavaScript               23 repos            ████████░░░░░░░░░░░░░░░░░   31.51% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.22% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11% 
+Ruby                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
 
 ```
 
@@ -58,5 +58,5 @@ Ruby                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 18:49:31 UTC
+ Last Updated on 13/01/2023 18:42:39 UTC
 <!--END_SECTION:waka-->
