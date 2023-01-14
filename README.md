@@ -25,15 +25,15 @@
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C297%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C398%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 99 Contributions in the Year 2023
+> 🏆 100 Contributions in the Year 2023
  > 
-> 📦 658.6 kB Used in GitHub's Storage 
+> 📦 658.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,6 +41,43 @@
  > 
 > 🔑 17 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    132 commits    ██████░░░░░░░░░░░░░░░░░░░   25.38% 
+🌆 Daytime    200 commits    █████████░░░░░░░░░░░░░░░░   38.46% 
+🌃 Evening    165 commits    ████████░░░░░░░░░░░░░░░░░   31.73% 
+🌙 Night      23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.42%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
+Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Thursday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Friday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
+Saturday     92 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
+Sunday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               6 hrs 9 mins        ████████████████████░░░░░   80.17% 
+MDX                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+SCSS                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -58,5 +95,5 @@ Ruby                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 18:42:39 UTC
+ Last Updated on 14/01/2023 18:42:56 UTC
 <!--END_SECTION:waka-->
