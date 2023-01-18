@@ -25,15 +25,15 @@
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C401%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C401%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-149%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 114 Contributions in the Year 2023
+> 🏆 117 Contributions in the Year 2023
  > 
-> 📦 658.5 kB Used in GitHub's Storage 
+> 📦 658.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,11 +70,11 @@ Sunday       65 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               8 hrs               ████████████████████░░░░░   79.85% 
-JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-MDX                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
+TypeScript               6 hrs 37 mins       ██████████████████░░░░░░░   73.09% 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
+MDX                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.5%
 
 ```
 
@@ -95,5 +95,5 @@ Ruby                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2023 18:42:52 UTC
+ Last Updated on 18/01/2023 18:43:05 UTC
 <!--END_SECTION:waka-->
