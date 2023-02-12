@@ -25,7 +25,7 @@
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C435%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-154%20Thousand%20lines%20of%20code-blue)
 
@@ -70,11 +70,11 @@ Sunday          65 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               3 hrs 28 mins       ████████████████████░░░░░   80.58 % 
-JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+TypeScript               2 hrs 42 mins       ███████████████░░░░░░░░░░   60.41 % 
+JavaScript               53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+PHP                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 ```
 
@@ -95,5 +95,5 @@ Ruby                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/02/2023 18:43:08 UTC
+ Last Updated on 12/02/2023 18:44:13 UTC
 <!--END_SECTION:waka-->
