@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C439%20hrs%2011%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-903%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 222 Contributions in the Year 2023
  > 
-> 📦 660.4 kB Used in GitHub's Storage 
+> 📦 660.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,11 +70,11 @@ Sunday          65 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       ████████████████████░░░░░   81.60 % 
-JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-PHP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               4 hrs 15 mins       ████████████████████░░░░░   80.38 % 
+JavaScript               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+PHP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 ```
 
@@ -95,5 +95,5 @@ Ruby                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2023 18:39:43 UTC
+ Last Updated on 18/02/2023 18:37:22 UTC
 <!--END_SECTION:waka-->
