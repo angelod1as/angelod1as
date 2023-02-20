@@ -25,7 +25,7 @@
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-902%20Thousand%20lines%20of%20code-blue)
 
@@ -70,11 +70,8 @@ Sunday          69 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               4 hrs 18 mins       ████████████████████████░   98.54 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               1 hr 53 mins        █████████████████████████   99.91 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 ```
 
@@ -95,5 +92,5 @@ Ruby                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/angelod1as/angelod1as/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2023 18:37:14 UTC
+ Last Updated on 20/02/2023 18:39:06 UTC
 <!--END_SECTION:waka-->
