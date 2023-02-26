@@ -68,9 +68,8 @@ Sunday                   230 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 33 mins       █████████████████████████   98.75 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               1 hr 38 mins        █████████████████████████   98.17 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,5 +89,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/angelod1as/angelod1as/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2023 18:38:28 UTC
+ Last Updated on 26/02/2023 18:37:54 UTC
 <!--END_SECTION:waka-->
