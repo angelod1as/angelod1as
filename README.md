@@ -25,7 +25,7 @@
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C441%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C443%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -33,7 +33,7 @@
 
 > 📦 661.4 kB Used in GitHub's Storage 
  > 
-> 🏆 242 Contributions in the Year 2023
+> 🏆 243 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,7 +68,11 @@ Sunday                   231 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               6 mins              █████████████████████████   100.00 % 
+TypeScript               52 mins             █████████████████░░░░░░░░   68.72 % 
+JSON                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,5 +92,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/angelod1as/angelod1as/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2023 18:41:27 UTC
+ Last Updated on 02/03/2023 18:43:04 UTC
 <!--END_SECTION:waka-->
