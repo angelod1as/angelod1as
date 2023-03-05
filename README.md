@@ -25,7 +25,7 @@
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelod1as&show_icons=true&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C443%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C445%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -68,11 +68,11 @@ Sunday                   231 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               59 mins             ██████████████████░░░░░░░   70.95 % 
-JSON                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               3 hrs 29 mins       ██████████████████████░░░   89.41 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,5 +92,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/angelod1as/angelod1as/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2023 18:36:41 UTC
+ Last Updated on 05/03/2023 18:36:47 UTC
 <!--END_SECTION:waka-->
